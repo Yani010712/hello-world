@@ -1,6 +1,6 @@
 {
   "name": "hello-world",
-  "version": "first time running a server!",
+  "version": "1.0.0",
   "description": "first time running a server!",
   "main": "index.js",
   "repository": "https://github.com/Yani010712/hello-world",
