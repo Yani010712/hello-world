@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "first time running a server!",
+  "description": "first time running a server!",
+  "main": "index.js",
+  "repository": "https://github.com/Yani010712/hello-world",
+  "author": "Yani Rodriguez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+   "start": "node index.js"
+ },
+ "engines": {
+    "node": ">=11.13.0"
+ }
+}
